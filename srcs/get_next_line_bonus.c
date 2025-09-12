@@ -6,11 +6,11 @@
 /*   By: agerbaud <agerbaud@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 22:35:06 by agerbaud          #+#    #+#             */
-/*   Updated: 2023/12/12 13:07:55 by agerbaud         ###   ########.fr       */
+/*   Updated: 2025/09/12 11:35:51 by agerbaud         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "../includes/get_next_line_bonus.h"
 
 static int	init_buffer(char **buffer, char *memory, size_t count, int *fd)
 {

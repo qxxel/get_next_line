@@ -6,11 +6,11 @@
 /*   By: agerbaud <agerbaud@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 22:35:43 by agerbaud          #+#    #+#             */
-/*   Updated: 2023/12/12 00:04:48 by agerbaud         ###   ########.fr       */
+/*   Updated: 2025/09/12 11:35:58 by agerbaud         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "../includes/get_next_line_bonus.h"
 
 void	*ft_bzero(void *s, size_t n)
 {
