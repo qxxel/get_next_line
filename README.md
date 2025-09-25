@@ -1,4 +1,4 @@
-# cub3d
+# get_next_line
 ![42 Project](https://img.shields.io/badge/42-Project-blue)
 ![Language](https://img.shields.io/badge/C-0E7FC0?logo=c)
 
