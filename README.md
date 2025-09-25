@@ -26,9 +26,9 @@ It's a function that return the next line of the file descriptor give as argumen
 ## ✨ Features
 
 ✅ Read a file line by line  
-✅ Read the stdin
-✅ Can chose manualy the buffer size in the compilation
-✅ Use only one static variable
+✅ Read the stdin  
+✅ Can chose manualy the buffer size in the compilation  
+✅ Use only one static variable  
 ✅ Can support multiple file descriptors
 
 ---
